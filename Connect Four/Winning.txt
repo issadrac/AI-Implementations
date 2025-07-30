@@ -1,0 +1,148 @@
+Who goes first? (X = Computer, O = Human): o
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - - - - - - -
+D - - - - - - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Enter your move (e.g. A1): D5
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - - - - - - -
+D - - - - O - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer is thinking...
+Computer moved to C6
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - - - - X - -
+D - - - - O - - -
+E - - - - - - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Enter your move (e.g. A1): E5
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - - - - X - -
+D - - - - O - - -
+E - - - - O - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer is thinking...
+Computer moved to C5
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - - - X X - -
+D - - - - O - - -
+E - - - - O - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Enter your move (e.g. A1): C4
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - - O X X - -
+D - - - - O - - -
+E - - - - O - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer is thinking...
+Computer moved to C7
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - - O X X X -
+D - - - - O - - -
+E - - - - O - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Enter your move (e.g. A1): C8
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - - O X X X O
+D - - - - O - - -
+E - - - - O - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer is thinking...
+Computer moved to C3
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - X O X X X O
+D - - - - O - - -
+E - - - - O - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Enter your move (e.g. A1): D4
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - X O X X X O
+D - - - O O - - -
+E - - - - O - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer is thinking...
+Computer moved to E4
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - X O X X X O
+D - - - O O - - -
+E - - - X O - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Enter your move (e.g. A1): D3
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - X O X X X O
+D - - O O O - - -
+E - - - X O - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Computer is thinking...
+Computer moved to D6
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - X O X X X O
+D - - O O O X - -
+E - - - X O - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+Enter your move (e.g. A1): D2
+  1 2 3 4 5 6 7 8
+A - - - - - - - -
+B - - - - - - - -
+C - - X O X X X O
+D - O O O O X - -
+E - - - X O - - -
+F - - - - - - - -
+G - - - - - - - -
+H - - - - - - - -
+
+Human won!
