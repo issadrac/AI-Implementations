@@ -2,15 +2,15 @@
 
 This is a C++ implementation of **Connect Four (8x8)** where a human plays against a computer opponent.
 
-The computer uses **Alpha-Beta Pruning** combined with **Iterative Deepening Search (IDS)** and a custom heuristic evaluation to make intelligent decisions within a 5-second time limit (Given a longer time limit, the AI makes better moves).
+The computer uses **Alpha-Beta Pruning** combined with **Iterative Deepening Search (IDS)** and a custom heuristic evaluation to make decisions within a 5-second time limit (Given a longer time limit, the AI makes better moves).
 
 ## AI Strategy
 
-- **Minimax with Alpha-Beta Pruning**
-- **Iterative Deepening (up to depth 5)**
-- **Position-based scoring**
-- **Pattern detection** for 2-in-a-row and 3-in-a-row configurations
-- **Time-limited decision making**
+- **Minimax with Alpha-Beta Pruning** - The main driver in the AI's evalution process
+- **Iterative Deepening (up to depth 5)** - Allows for better descions the longer it runs
+- **Heuristic Evaluations** - Better board positions, how many in a row, certain patterns, and blocks.
+- **Pattern detection** for 2 or 3 in four configurations.
+- **Time-limited decision making** - AI only has a 5-second time limit to respond with a move. If changed to a longer time, the AI plays better.
 
 ## Game Rules
 
